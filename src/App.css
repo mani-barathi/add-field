@@ -1,0 +1,31 @@
+.App {
+  padding: 2rem;
+  width: 600px;
+  margin: auto;
+}
+
+.filter-button {
+  padding: 8px 24px;
+  width: 300px;
+  border: 1px solid gray;
+  position: relative;
+  border-radius: 4px;
+}
+
+.filter-dropdown {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(248, 245, 245);
+  border: 1px solid gray;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.field-option {
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 2px;
+}
